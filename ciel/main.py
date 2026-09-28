@@ -42,9 +42,6 @@ while True:
         elif model_output == "who are you":
             speak("I am Ciel, an AI assistant.")
 
-        elif model_output == "how are you":
-            speak("I feel nothing for now.")
-
         elif model_output == "what is your name":
             speak("My name is Ciel.")
 
